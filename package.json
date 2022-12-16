@@ -1,0 +1,8 @@
+{
+  "name": "js-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Tona-Mangobyte/js-learning.git",
+  "author": "Tona <tona@mango-byte.com>",
+  "license": "MIT"
+}
