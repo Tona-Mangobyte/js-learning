@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:Tona-Mangobyte/js-learning.git",
   "author": "Tona <tona@mango-byte.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
